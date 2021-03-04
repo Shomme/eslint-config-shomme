@@ -1,0 +1,1 @@
+Yet another eslint config
