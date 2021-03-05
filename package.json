@@ -1,5 +1,5 @@
 {
-  "name": "eslint-shomme-config",
+  "name": "eslint-config-shomme",
   "version": "0.0.1",
   "description": "Eslint config based on Airbnb, somewhere more strict",
   "main": "index.js",
